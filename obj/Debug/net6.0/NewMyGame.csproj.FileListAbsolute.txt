@@ -1,0 +1,15 @@
+C:\Users\Дима\Documents\GitHub\NewMyGame\bin\Debug\net6.0\NewMyGame.exe
+C:\Users\Дима\Documents\GitHub\NewMyGame\bin\Debug\net6.0\NewMyGame.deps.json
+C:\Users\Дима\Documents\GitHub\NewMyGame\bin\Debug\net6.0\NewMyGame.runtimeconfig.json
+C:\Users\Дима\Documents\GitHub\NewMyGame\bin\Debug\net6.0\NewMyGame.dll
+C:\Users\Дима\Documents\GitHub\NewMyGame\bin\Debug\net6.0\NewMyGame.pdb
+C:\Users\Дима\Documents\GitHub\NewMyGame\obj\Debug\net6.0\NewMyGame.csproj.AssemblyReference.cache
+C:\Users\Дима\Documents\GitHub\NewMyGame\obj\Debug\net6.0\NewMyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\Documents\GitHub\NewMyGame\obj\Debug\net6.0\NewMyGame.AssemblyInfoInputs.cache
+C:\Users\Дима\Documents\GitHub\NewMyGame\obj\Debug\net6.0\NewMyGame.AssemblyInfo.cs
+C:\Users\Дима\Documents\GitHub\NewMyGame\obj\Debug\net6.0\NewMyGame.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Documents\GitHub\NewMyGame\obj\Debug\net6.0\NewMyGame.dll
+C:\Users\Дима\Documents\GitHub\NewMyGame\obj\Debug\net6.0\refint\NewMyGame.dll
+C:\Users\Дима\Documents\GitHub\NewMyGame\obj\Debug\net6.0\NewMyGame.pdb
+C:\Users\Дима\Documents\GitHub\NewMyGame\obj\Debug\net6.0\NewMyGame.genruntimeconfig.cache
+C:\Users\Дима\Documents\GitHub\NewMyGame\obj\Debug\net6.0\ref\NewMyGame.dll
